@@ -1,0 +1,8 @@
+{
+  "id": "and-syntax",
+  "name": "aNd Syntax",
+  "main": "main.js",
+  "version": "1.0.0",
+  "description": "aNd programming language syntax highlighting",
+  "author": "aNd"
+}
